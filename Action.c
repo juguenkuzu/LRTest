@@ -56,7 +56,7 @@ Action()
 		"Name=toPort", "Value=London", ENDITEM, 
 		LAST);
 
-	/* choose Compagny fly  */
+	/* choose Compagny fly number */
 
 	lr_think_time(22);
 
